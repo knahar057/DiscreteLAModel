@@ -8,7 +8,7 @@ This repository presents an analysis of the discrete **Larvae–Adult (LA)** pop
 
 ## 📁 Data
 
-The experimental data used for model fitting is provided in:  TriboliumData_2.xlsx 
+The experimental data used for model fitting is provided in:  **TriboliumData_2.xlsx** 
 
 ---
 
